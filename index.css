@@ -38,7 +38,7 @@ body {
   width: auto;
 }
 
-button {
+.button {
   position: relative;
   background-color: #e04b52;
   border: none;
@@ -50,7 +50,7 @@ button {
   justify-self: center;
 }
 
-button:hover {
+.button:hover {
   background-color: whitesmoke;
   border: #e04b52 solid 1px;
   color: #e04b52;
